@@ -55,6 +55,9 @@ As we value your time as well as our own, we ask that all meetings be scheduled 
 If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
 To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
 
+####Emergencies
+In the event of any emergencies occuring on a project that require attention outside of normal business hours, we will do our best to provide support, schedule permitting, but we cannot guarantee availability outside of normal working hours, and such support will be negotiated and charged for as an additional service independent of the rest of the project.
+
 ###Legal stuff
 
 Although we test extensively, we can't guarantee that the functions contained in any application will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
