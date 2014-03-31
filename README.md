@@ -76,7 +76,7 @@ We love to show off our work and share what we have learned with other people, s
 
 ###Payments
 
-We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly.  As we're also sure you'll want to stay friends, you agree to stick tightly to the the payment schedule we agree upon.  Work will halt if payments are not made promptly.
+We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly.  As we're also sure you'll want to stay friends, you agree to stick tightly to the the payment schedule we agree upon.  Work will halt if payments are not made promptly.  Payments are only considered made when any money has cleared in to our accounts (15 days for international cheques).
 
 ###Project Termination
 
