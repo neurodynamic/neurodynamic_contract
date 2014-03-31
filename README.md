@@ -14,7 +14,7 @@ We will always do our best to fulfill your needs and meet your goals, but someti
 
 ####In short:
 
-You ([CLIENT COMPANY]) are hiring us ([MY COMPANY]) to [PROJECT NAME OR DESCRIPTION] for the estimated total price of [total] as outlined in our previous correspondence. Of course it's a little more complicated, but we'll get to that.
+You ([CLIENT COMPANY]) are hiring us ([MY COMPANY]) to [PROJECT NAME OR DESCRIPTION] for the estimated total price of [TOTAL] as outlined in our previous correspondence. Of course it's a little more complicated, but we'll get to that.
 
 ###What do both parties agree to do?
 
