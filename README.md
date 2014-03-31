@@ -42,14 +42,6 @@ We write tests before we write our code, which allows us to make sure that all r
 ####Version Control
 Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
 
-####Timeline
-This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
-Below is the milestone schedule:
-
-* [MILESTONE NAME, # DAYS REQUIRED]
-
-This contract will be declared complete when all work completed has been paid in full.
-
 ####Changes and revisions
 
 We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that. However, additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract (which we will be happy to provide upon request), and we retain the right to refuse additional work that is not specifically outlined in this document.
