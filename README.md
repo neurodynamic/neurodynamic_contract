@@ -34,20 +34,20 @@ Below is a list of items we’ll need up front from you. Every project is slight
 
 ####Browser Compatibility
 We have agreed to test our code in IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
-We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
+We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences from older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
 
 ####Testing
 We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
 
 ####Version Control
-Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
+Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others' changes.
 
 ####Changes and revisions
 
 We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that. However, additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract (which we will be happy to provide upon request), and we retain the right to refuse additional work that is not specifically outlined in this document.
 
 ####Contact
-All communications will be made during regular business hours (Monday-Friday, 9am-5pm CST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
+All communications will be made during regular business hours (Monday-Friday, 9am-5pm MST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
 
 As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
@@ -74,7 +74,8 @@ When we receive your final payment, copyright is automatically assigned as follo
 
 You own the graphics and other visual elements that we create for you for this project. We will give you a copy of all files and you should store them safely as we are not required to keep them or provide any native source files that we used in making them.
 
-You also own text content, photographs and other data you provided, unless someone else owns them. We own the code we produced and we retain the rights to license it how we choose or to contribute it back to the open source project which it is based on.
+You also own text content, photographs and other data you provided, unless someone else owns them. We own the code we produced and we retain the rights to license it as we choose or to contribute it back to the open source project which it is based on.
+
 We love to show off our work and share what we have learned with other people, so we also reserve the right to display and link to your completed project as part of our portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course we’re happy to keep this information to ourselves until your project goes live or 6 months from the handover date, whichever is sooner.
 
 ###Payments
