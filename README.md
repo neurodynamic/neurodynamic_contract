@@ -8,7 +8,7 @@
 
 [DATE]
 
-###Summary:
+##Summary:
 
 I will always do my best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for the safety of both parties, now and in the future.
 
@@ -16,7 +16,7 @@ I will always do my best to fulfill your needs and meet your goals, but sometime
 
 You ([CLIENT COMPANY]) are hiring me ([MY COMPANY]) to [PROJECT NAME OR DESCRIPTION] for the price of [TOTAL] as outlined in our previous correspondence. Of course it's a little more complicated, but we'll get to that.
 
-###What do both parties agree to do?
+##What do both parties agree to do?
 
 As our customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback, and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out.
 
@@ -24,7 +24,7 @@ I have the experience and ability to perform the services you need from me and I
 
 I promise that I'll do my best to do right by you and anticipate any technical changes that may come up. We're humans though and sometimes something may get missed. In which case we have a sit down and figure out how we can work it out together.
 
-###Getting down to the nitty gritty
+##Getting down to the nitty gritty
 
 ####What I need from you
 
@@ -53,7 +53,7 @@ If you do not have a preferred project management tool, I will provide you with 
 ####Emergencies
 In the event of any emergencies occurring on a project that require attention outside of normal business hours, I will do my best to provide support, schedule permitting, but I cannot guarantee availability outside of normal working hours, and such support will be negotiated and charged for as an additional service independent of the rest of the project.
 
-###Legal stuff
+##Legal stuff
 
 Although I test my applications, I can't guarantee that the functions contained in any application will always be error-free and so I can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised me of the possibilities of such damages.
 
@@ -73,21 +73,21 @@ You also own text content, photographs and other data you provided, unless someo
 
 I love to show off my work and share what I have learned with other people, so I also reserve the right to display and link to your completed project as part of my portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course I'm happy to keep this information to myself until your project goes live or 6 months from the handover date, whichever is sooner.
 
-###Payments
+##Payments
 
 I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly.  As I'm also sure you'll want to stay friends, you agree to stick tightly to the the payment schedule we agree upon.  Work will halt if payments are not made promptly.  Payments are only considered made when any money has cleared into my accounts (15 days for international cheques).
 
-###Project Termination
+##Project Termination
 
 If either party chooses to end the project, it must be done in writing.
 
-###But where is all the horrible small print?
+##But where is all the horrible small print?
 
 Just like a parking ticket, you cannot transfer this contract to anyone else without my permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [MY STATE] courts.
 
-###The dotted line
+##The dotted line
 
 
 __________________________________________________
