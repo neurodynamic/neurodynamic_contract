@@ -18,7 +18,7 @@ You ([CLIENT COMPANY]) are hiring me ([MY COMPANY]) to [PROJECT NAME OR DESCRIPT
 
 ##What do both parties agree to do?
 
-As our customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback, and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out.
+As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback, and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out.
 
 I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give me.
 
